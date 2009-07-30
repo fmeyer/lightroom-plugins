@@ -1,0 +1,27 @@
+s = {
+	id = "30DD7985-3103-4894-9E9F-62381D355417",
+	internalName = "Portrait - Auto Tone",
+	title = "Portrait - Auto Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			AutoTone = true,
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Portrait beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "86870804-F73B-40DD-A947-A3D2B3801056",
+	},
+	version = 0,
+}

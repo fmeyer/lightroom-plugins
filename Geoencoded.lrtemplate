@@ -1,0 +1,38 @@
+s = {
+	id = "9779037B-1956-4E6C-A2FF-08D48037B36D",
+	internalName = "Geoencoded",
+	title = "Geoencoded",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "hasGPS",
+				selections = {
+					true,
+				},
+			},
+		},
+		customLabel = true,
+		filtersActive = true,
+		label1 = false,
+		label2 = true,
+		label3 = true,
+		label4 = true,
+		label5 = true,
+		labelOp = "any",
+		minRating = 1,
+		noLabel = true,
+		pick = "<nil>",
+		ratingOp = ">=",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}

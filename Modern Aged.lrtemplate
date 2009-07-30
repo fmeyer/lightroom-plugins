@@ -1,0 +1,21 @@
+s = {
+	id = "3ABDC847-CAAE-4033-9FC4-576B3D72659A",
+	internalName = "Modern Aged",
+	title = "Modern Aged",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoShadows = false,
+			Clarity = 80,
+			FillLight = 33,
+			HighlightRecovery = 21,
+			Saturation = -86,
+			Shadows = 27,
+			Vibrance = 71,
+		},
+		uuid = "44D7E547-83A8-4C96-B20B-8974E95A52AE",
+	},
+	version = 0,
+}

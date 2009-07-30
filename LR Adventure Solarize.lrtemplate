@@ -1,0 +1,25 @@
+s = {
+	id = "0FBDE964-0E8C-4806-8DAE-1536A8FB9569",
+	internalName = "LR Adventure Solarize",
+	title = "LR Adventure Solarize",
+	type = "Develop",
+	value = {
+		settings = {
+			ToneCurve = {
+				0,
+				0,
+				64,
+				70,
+				200,
+				100,
+				230,
+				200,
+				255,
+				255,
+			},
+			ToneCurveName = "LR Adventure Solarize",
+		},
+		uuid = "1BBDABC3-3BD9-4355-B7AE-140D8B6545EA",
+	},
+	version = 0,
+}

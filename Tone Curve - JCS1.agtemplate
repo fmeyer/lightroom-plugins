@@ -1,0 +1,29 @@
+s = {
+	title = "Tone Curve - JCS1",
+	type = "Develop",
+	value = {
+	settings = {
+		AutoBrightness = false,
+		AutoContrast = false,
+		Brightness = 0,
+		Contrast = 0,
+		ShadowlandExperimental_HighlightBrightness = 0,
+		ShadowlandExperimental_HighlightSlope = 12,
+		ShadowlandExperimental_HighlightSplit = 67,
+		ShadowlandExperimental_MidtoneBrightness = 38,
+		ShadowlandExperimental_MidtoneContrast = 50,
+		ShadowlandExperimental_ShadowBrightness = -50,
+		ShadowlandExperimental_ShadowCompression = 0,
+		ShadowlandExperimental_ShadowSlope = -25,
+		ShadowlandExperimental_ShadowSplit = 33,
+		ShadowlandExperimental_Version = "Shadowland_v0.02i",
+		curve = {
+					0,
+					0,
+					255,
+					255,
+				},
+		},
+		uuid = "9A6C42A8-0540-11DB-B47C-00145165D54E",
+		},
+}

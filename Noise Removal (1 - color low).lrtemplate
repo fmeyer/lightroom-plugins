@@ -1,0 +1,20 @@
+s = {
+	id = "8C05CF0D-F99C-49F4-92A9-95B45C2409A9",
+	internalName = "Matt's Noise Removal (1 - color low)",
+	title = "Matt's Noise Removal (1 - color low)",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 40,
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			EnableGrayscaleMix = true,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 75,
+		},
+		uuid = "C2867B8C-B5D3-4C27-841A-CCFE78EEC4D8",
+	},
+	version = 0,
+}

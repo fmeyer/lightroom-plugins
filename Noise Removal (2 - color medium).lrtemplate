@@ -1,0 +1,20 @@
+s = {
+	id = "5B2B538D-A6C5-4585-90D7-E38712B6CA44",
+	internalName = "Matt's Noise Removal (2 - color medium)",
+	title = "Matt's Noise Removal (2 - color medium)",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 74,
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			EnableGrayscaleMix = true,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 75,
+		},
+		uuid = "1633CE49-B37B-4A7F-A184-04D671EB2777",
+	},
+	version = 0,
+}

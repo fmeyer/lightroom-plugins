@@ -1,0 +1,22 @@
+s = {
+	id = "071F9A9C-50BD-41B6-8D23-A4DA718C44E4",
+	internalName = "Nikon D2X Mode 1",
+	title = "Nikon D2X Mode 1",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera D2X Mode 1 beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "85609E76-1F92-4EC0-A990-8E25F061C217",
+	},
+	version = 0,
+}

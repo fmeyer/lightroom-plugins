@@ -1,0 +1,14 @@
+s = {
+	id = "5330973C-B64C-4B92-89E5-77BE7E5B9ACE",
+	internalName = "EXP: -1",
+	title = "EXP: -1",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			Exposure = -1,
+		},
+		uuid = "CC9B0CF3-B0D5-47F6-AB16-D72511DBA44D",
+	},
+	version = 0,
+}

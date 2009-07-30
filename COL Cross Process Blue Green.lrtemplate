@@ -1,0 +1,28 @@
+s = {
+	id = "57E3E429-6994-4FDC-A5D2-BE614AA21568",
+	internalName = "COL Cross Process Blue Green",
+	title = "COL Cross Process Blue Green",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 21,
+			Contrast = 0,
+			EnableSplitToning = true,
+			Exposure = 0,
+			FillLight = 23,
+			HighlightRecovery = 14,
+			Shadows = 3,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 31,
+			SplitToningHighlightSaturation = 29,
+			SplitToningShadowHue = 193,
+			SplitToningShadowSaturation = 61,
+		},
+		uuid = "093633BB-7E1F-477A-971D-B0627E065CF7",
+	},
+	version = 0,
+}

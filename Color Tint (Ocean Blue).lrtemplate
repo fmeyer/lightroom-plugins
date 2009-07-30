@@ -1,0 +1,28 @@
+s = {
+	id = "E585DA60-E878-4292-A6DC-E6937724DC52",
+	internalName = "Matt's Color Tint (Ocean Blue)",
+	title = "Matt's Color Tint (Ocean Blue)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -15,
+			GrayMixerBlue = 15,
+			GrayMixerGreen = -27,
+			GrayMixerMagenta = 4,
+			GrayMixerOrange = -21,
+			GrayMixerPurple = 19,
+			GrayMixerRed = -11,
+			GrayMixerYellow = -25,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 231,
+			SplitToningHighlightSaturation = 50,
+			SplitToningShadowHue = 231,
+			SplitToningShadowSaturation = 50,
+		},
+		uuid = "015A3C68-A081-4587-97F7-8CBF6A59B961",
+	},
+	version = 0,
+}

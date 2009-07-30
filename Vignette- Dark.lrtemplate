@@ -1,0 +1,14 @@
+s = {
+	id = "15383FB0-A2C6-4826-AAFF-672DE2C29416",
+	internalName = "Vignette: Dark",
+	title = "Vignette: Dark",
+	type = "Develop",
+	value = {
+		settings = {
+			VignetteAmount = -100,
+			VignetteMidpoint = 0,
+		},
+		uuid = "C4EA52EA-B58B-4D91-B8CF-460B0CF96D63",
+	},
+	version = 0,
+}

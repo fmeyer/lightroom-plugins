@@ -1,0 +1,18 @@
+s = {
+	id = "64794657-7804-463C-9E3B-C57CA7AA127B",
+	internalName = "Matt's Soft Focus Level 1",
+	title = "Matt's Soft Focus Level 1",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity = -50,
+			EnableVignettes = true,
+			PostCropVignetteAmount = -13,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+		},
+		uuid = "EBB03E9D-28A7-460B-9F4C-8111B6B6C536",
+	},
+	version = 0,
+}

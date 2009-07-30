@@ -1,0 +1,19 @@
+s = {
+	id = "73C6B92A-3818-4A27-A381-8EBCB67B881D",
+	internalName = "Rounded Corner",
+	title = "Rounded Corner",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = -100,
+			VignetteAmount = -100,
+			VignetteMidpoint = 0,
+		},
+		uuid = "463B1348-DE32-4108-BCE1-8706D50D4324",
+	},
+	version = 0,
+}

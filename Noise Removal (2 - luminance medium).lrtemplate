@@ -1,0 +1,20 @@
+s = {
+	id = "47F551CE-6FA1-47A8-AC11-867482DF3CCB",
+	internalName = "Matt's Noise Removal (2 - luminance medium)",
+	title = "Matt's Noise Removal (2 - luminance medium)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			EnableGrayscaleMix = true,
+			LuminanceSmoothing = 35,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 72,
+		},
+		uuid = "95DF8DC1-F7FC-4751-9670-67F108BBBAEE",
+	},
+	version = 0,
+}

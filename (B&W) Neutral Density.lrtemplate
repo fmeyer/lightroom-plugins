@@ -1,0 +1,22 @@
+s = {
+	id = "EF50905E-3E26-4C2B-A23A-6D07E27E35AC",
+	internalName = "(B&W) Neutral Density",
+	title = "(B&W) Neutral Density",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 33,
+			GrayMixerBlue = 42,
+			GrayMixerGreen = 33,
+			GrayMixerMagenta = 33,
+			GrayMixerOrange = 40,
+			GrayMixerPurple = 37,
+			GrayMixerRed = 42,
+			GrayMixerYellow = 42,
+		},
+		uuid = "F4DBB81F-4B70-48FF-B55D-D7EB481E18FF",
+	},
+	version = 0,
+}

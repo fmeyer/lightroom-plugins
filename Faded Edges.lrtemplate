@@ -1,0 +1,19 @@
+s = {
+	id = "7A81B3E7-E043-42F1-9FF7-B65576364956",
+	internalName = "Faded Edges",
+	title = "Faded Edges",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = 100,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = -100,
+			VignetteAmount = 100,
+			VignetteMidpoint = 100,
+		},
+		uuid = "5A749163-F911-41F1-97F7-A310F3CBB13F",
+	},
+	version = 0,
+}

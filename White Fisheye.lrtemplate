@@ -1,0 +1,19 @@
+s = {
+	id = "5DC213BD-9AFB-44AD-A2AB-D9D0878CFE58",
+	internalName = "White Fisheye",
+	title = "White Fisheye",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = 100,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = 100,
+			VignetteAmount = 100,
+			VignetteMidpoint = 100,
+		},
+		uuid = "4B8772F2-3312-4E13-96D5-6DABA023BCD4",
+	},
+	version = 0,
+}

@@ -1,0 +1,42 @@
+s = {
+	id = "816B6029-7EB1-4E8B-B221-8078D1238161",
+	internalName = "sample grad 3",
+	title = "sample grad 3",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			GradientBasedCorrections = {
+				{
+					CorrectionActive = true,
+					CorrectionAmount = 1,
+					CorrectionID = "1409FD5F-3E37-41B1-B60A-C76139C097ED",
+					CorrectionMasks = {
+						{
+							FullX = 0.654532,
+							FullY = 0.493077,
+							MaskID = "99B9F038-752A-4084-9FC2-ADA3305A60AE",
+							MaskValue = 1,
+							What = "Mask/Gradient",
+							ZeroX = 0.644784,
+							ZeroY = 0.493077,
+						},
+					},
+					CorrectionReferenceX = 0.649658,
+					CorrectionReferenceY = 0.493077,
+					LocalBrightness = 0,
+					LocalClarity = 0,
+					LocalContrast = 0,
+					LocalExposure = -0.25,
+					LocalSaturation = 0,
+					LocalSharpness = 0,
+					LocalToningHue = 0,
+					LocalToningSaturation = 0,
+					What = "Correction",
+				},
+			},
+		},
+		uuid = "17DB9CE5-FB9F-4A4F-9F55-322D27328D6D",
+	},
+	version = 0,
+}

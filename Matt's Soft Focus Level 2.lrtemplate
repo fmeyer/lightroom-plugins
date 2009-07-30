@@ -1,0 +1,18 @@
+s = {
+	id = "855F47E4-1F4A-4F30-B171-35BF54FDD436",
+	internalName = "Matt's Soft Focus Level 2",
+	title = "Matt's Soft Focus Level 2",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity = -100,
+			EnableVignettes = true,
+			PostCropVignetteAmount = -13,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+		},
+		uuid = "90CAEDD2-762B-44F7-9732-12019591E0C0",
+	},
+	version = 0,
+}

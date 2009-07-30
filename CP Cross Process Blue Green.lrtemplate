@@ -1,0 +1,28 @@
+s = {
+	id = "CCCE846F-FAC7-4A58-AD08-83B53105592B",
+	internalName = "CP Cross Process Blue Green",
+	title = "CP Cross Process Blue Green",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 21,
+			Contrast = 0,
+			EnableSplitToning = true,
+			Exposure = 0,
+			FillLight = 23,
+			HighlightRecovery = 14,
+			Shadows = 3,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 31,
+			SplitToningHighlightSaturation = 29,
+			SplitToningShadowHue = 193,
+			SplitToningShadowSaturation = 61,
+		},
+		uuid = "CF8E93B0-F421-4ADE-B42E-07D3F4216475",
+	},
+	version = 0,
+}

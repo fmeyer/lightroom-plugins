@@ -1,0 +1,22 @@
+s = {
+	id = "CAA17A3D-27B0-4E85-853D-B0DE18BAB767",
+	internalName = "Faithful",
+	title = "Faithful",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Faithful beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "032BA59B-DD2B-4D01-92D5-A93FB32C04D4",
+	},
+	version = 0,
+}

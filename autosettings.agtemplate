@@ -1,0 +1,15 @@
+s = {
+title = "Auto",
+type = "Develop",
+value = {
+settings = {
+AutoBrightness = true,
+AutoContrast = true,
+AutoExposure = true,
+AutoShadows = true,
+whiteBalance = "auto",
+
+},
+uuid = "FBCB4147-2E80-11DB-B1A8-000D937119A4",
+},
+}

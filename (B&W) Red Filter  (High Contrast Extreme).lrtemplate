@@ -1,0 +1,22 @@
+s = {
+	id = "84F9268D-EBED-472C-9ACE-566D07A9F26A",
+	internalName = "(B&W) Red Filter  (High Contrast Extreme)",
+	title = "(B&W) Red Filter  (High Contrast Extreme)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = -55,
+			GrayMixerBlue = -85,
+			GrayMixerGreen = -26,
+			GrayMixerMagenta = -64,
+			GrayMixerOrange = 38,
+			GrayMixerPurple = -77,
+			GrayMixerRed = 74,
+			GrayMixerYellow = 19,
+		},
+		uuid = "7F6A709B-961B-4613-8B3B-687CFCE4A240",
+	},
+	version = 0,
+}

@@ -1,0 +1,20 @@
+s = {
+	id = "F92C588A-B2F2-4297-9C2A-9A7642CAE317",
+	internalName = "Matt's Noise Removal (3- luminance high)",
+	title = "Matt's Noise Removal (3- luminance high)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			EnableGrayscaleMix = true,
+			LuminanceSmoothing = 35,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 87,
+		},
+		uuid = "0E1A1444-6FE7-4E05-88DB-75E749BE5D2E",
+	},
+	version = 0,
+}

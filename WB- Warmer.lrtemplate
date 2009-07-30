@@ -1,0 +1,15 @@
+s = {
+	id = "12426D04-138C-4DD0-B04D-A7651169BF83",
+	internalName = "WB: Warmer",
+	title = "WB: Warmer",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 7500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "37443E10-BADA-4F1C-BC5E-6E80CD9F3A94",
+	},
+	version = 0,
+}

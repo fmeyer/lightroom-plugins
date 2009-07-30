@@ -1,0 +1,19 @@
+s = {
+	id = "5B403840-517C-4015-9CB6-8F25C26D3CEB",
+	internalName = "COL Twisty Fries",
+	title = "COL Twisty Fries",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoShadows = false,
+			ConvertToGrayscale = false,
+			EnableGrayscaleMix = true,
+			FillLight = 50,
+			HighlightRecovery = 50,
+			Shadows = 50,
+			Vibrance = 50,
+		},
+		uuid = "10E6009A-7ED8-4394-A611-94BB61790E8F",
+	},
+	version = 0,
+}

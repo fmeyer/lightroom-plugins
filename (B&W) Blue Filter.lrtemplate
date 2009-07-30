@@ -1,0 +1,22 @@
+s = {
+	id = "F0D73D30-B78E-4E7B-A109-81DCDB15316E",
+	internalName = "(B&W) Blue Filter",
+	title = "(B&W) Blue Filter",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 36,
+			GrayMixerBlue = 36,
+			GrayMixerGreen = 0,
+			GrayMixerMagenta = 36,
+			GrayMixerOrange = 0,
+			GrayMixerPurple = 36,
+			GrayMixerRed = 0,
+			GrayMixerYellow = 0,
+		},
+		uuid = "D89154A9-D773-49CE-B6AC-04478C1B9DE6",
+	},
+	version = 0,
+}

@@ -1,0 +1,38 @@
+s = {
+	id = "29543F92-D1DA-43B9-A4D4-D213E7D66B02",
+	internalName = "Not Geoencoded",
+	title = "Not Geoencoded",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "hasGPS",
+				selections = {
+					[1] = false,
+				},
+			},
+		},
+		customLabel = true,
+		filtersActive = true,
+		label1 = false,
+		label2 = true,
+		label3 = true,
+		label4 = true,
+		label5 = true,
+		labelOp = "any",
+		minRating = 1,
+		noLabel = true,
+		pick = "<nil>",
+		ratingOp = ">=",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}

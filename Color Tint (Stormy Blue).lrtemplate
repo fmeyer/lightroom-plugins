@@ -1,0 +1,28 @@
+s = {
+	id = "8B18AFBC-6B5E-47DA-B15A-F45A527603FD",
+	internalName = "Matt's Color Tint (Stormy Blue)",
+	title = "Matt's Color Tint (Stormy Blue)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -15,
+			GrayMixerBlue = 15,
+			GrayMixerGreen = -27,
+			GrayMixerMagenta = 4,
+			GrayMixerOrange = -21,
+			GrayMixerPurple = 19,
+			GrayMixerRed = -11,
+			GrayMixerYellow = -25,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 217,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 217,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "F801F30E-CFE9-4FB6-88AC-4FACC3212D13",
+	},
+	version = 0,
+}

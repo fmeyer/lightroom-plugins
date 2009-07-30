@@ -1,0 +1,15 @@
+s = {
+	id = "8F519F54-A282-4BC9-9F43-E84516846AEB",
+	internalName = "Matt's Edge Lightening 1 (Wide)",
+	title = "Matt's Edge Lightening 1 (Wide)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = 20,
+			VignetteMidpoint = 13,
+		},
+		uuid = "65B76833-5F71-48E4-8DF9-EF46A91CA789",
+	},
+	version = 0,
+}

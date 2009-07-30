@@ -1,0 +1,15 @@
+s = {
+	id = "B23F0267-0614-40D8-8D5A-855802D1A642",
+	internalName = "WB: Cool",
+	title = "WB: Cool",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 4500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "529D7148-F601-4711-A076-326DC1CC949C",
+	},
+	version = 0,
+}

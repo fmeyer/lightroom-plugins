@@ -1,0 +1,22 @@
+s = {
+	id = "48951687-478C-45D4-B477-F311C9C6D7C4",
+	internalName = "COL High Key",
+	title = "COL High Key",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 13,
+			Contrast = 30,
+			ConvertToGrayscale = false,
+			Exposure = 2.3829789161682,
+			Saturation = 6,
+			Shadows = 9,
+		},
+		uuid = "8560CAB8-A720-498C-B428-913542A5551A",
+	},
+	version = 0,
+}

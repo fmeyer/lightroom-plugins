@@ -1,0 +1,28 @@
+s = {
+	id = "B846636C-02F2-4603-A623-5AB2A096EE86",
+	internalName = "Matt's Color Tint (Cyan)",
+	title = "Matt's Color Tint (Cyan)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -15,
+			GrayMixerBlue = 15,
+			GrayMixerGreen = -27,
+			GrayMixerMagenta = 4,
+			GrayMixerOrange = -21,
+			GrayMixerPurple = 19,
+			GrayMixerRed = -11,
+			GrayMixerYellow = -25,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 195,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 195,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "CB022010-E7AB-4E0E-BBAC-A8D29DAC3A95",
+	},
+	version = 0,
+}

@@ -1,0 +1,28 @@
+s = {
+	id = "D93DBA36-095C-47D0-8E0E-1A82661466AC",
+	internalName = "B&W Infrared",
+	title = "B&W Infrared",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableColorAdjustments = true,
+			EnableGrayscaleMix = true,
+			FillLight = 30,
+			GrayMixerAqua = 51,
+			GrayMixerBlue = 0,
+			GrayMixerGreen = 100,
+			GrayMixerMagenta = -72,
+			GrayMixerOrange = -15,
+			GrayMixerPurple = -28,
+			GrayMixerRed = -45,
+			GrayMixerYellow = 49,
+			HighlightRecovery = 30,
+			Temperature = 3277,
+			Tint = -150,
+			WhiteBalance = "Custom",
+		},
+		uuid = "D9AE8ABD-4635-47FF-BEBE-85F829EA6D3A",
+	},
+	version = 0,
+}

@@ -1,0 +1,27 @@
+s = {
+	id = "3312546A-B109-4F4F-B23D-2C117E41E79D",
+	internalName = "Neutral - Auto Tone",
+	title = "Neutral - Auto Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			AutoTone = true,
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Neutral beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "354F47A9-F64D-4EF1-853F-27EC7F06198B",
+	},
+	version = 0,
+}

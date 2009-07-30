@@ -1,0 +1,19 @@
+s = {
+	id = "C8D8C0BA-F8C4-4EA5-B087-1203670984EC",
+	internalName = "Fisheye",
+	title = "Fisheye",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = 100,
+			VignetteAmount = -100,
+			VignetteMidpoint = 0,
+		},
+		uuid = "E2AF4BAB-90D4-496A-B5B8-58176AB3C518",
+	},
+	version = 0,
+}

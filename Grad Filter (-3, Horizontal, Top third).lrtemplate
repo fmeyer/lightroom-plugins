@@ -1,0 +1,42 @@
+s = {
+	id = "A010C303-A9C9-43BD-BB73-07D7BEA91EB2",
+	internalName = "Matt's Grad Filter (-3, Horizontal, Top third)",
+	title = "Matt's Grad Filter (-3, Horizontal, Top third)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			GradientBasedCorrections = {
+				{
+					CorrectionActive = true,
+					CorrectionAmount = 1,
+					CorrectionID = "A289AB3D-D5F2-4ECB-92C2-8A64160EBC04",
+					CorrectionMasks = {
+						{
+							FullX = 0.552887,
+							FullY = 0.151046,
+							MaskID = "1F42AA34-B271-4F9F-BC36-5F95C5A1067F",
+							MaskValue = 1,
+							What = "Mask/Gradient",
+							ZeroX = 0.552887,
+							ZeroY = 0.546725,
+						},
+					},
+					CorrectionReferenceX = 0.552887,
+					CorrectionReferenceY = 0.348886,
+					LocalBrightness = 0,
+					LocalClarity = 1,
+					LocalContrast = 0,
+					LocalExposure = -0.75,
+					LocalSaturation = 0.52809,
+					LocalSharpness = 0,
+					LocalToningHue = 0,
+					LocalToningSaturation = 0,
+					What = "Correction",
+				},
+			},
+		},
+		uuid = "5DECBC8E-AD8B-46BC-ABE0-47CAC71F0C25",
+	},
+	version = 0,
+}

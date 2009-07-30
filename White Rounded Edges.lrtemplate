@@ -1,0 +1,19 @@
+s = {
+	id = "6AFBAC0F-24C6-4699-8919-4E050C34E6C3",
+	internalName = "White Rounded Edges",
+	title = "White Rounded Edges",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = 100,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = -100,
+			VignetteAmount = -100,
+			VignetteMidpoint = 50,
+		},
+		uuid = "A79EDF99-C951-4826-AA60-A26A9E1E99D2",
+	},
+	version = 0,
+}

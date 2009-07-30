@@ -1,0 +1,27 @@
+s = {
+	id = "FE5B73EF-0970-4DFB-860D-E6ACB6CCAD94",
+	internalName = "Standard - Auto Tone",
+	title = "Standard - Auto Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			AutoTone = true,
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Standard beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "3B6F1999-869E-440B-85B1-4D96BCD17D45",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "EEFE5F64-1DEA-4B9B-B497-EA31F3C4C4B6",
+	internalName = "Darkening Brush (-1/3 Stop)",
+	title = "Darkening Brush (-1/3 Stop)",
+	type = "LocalizedAdjustmentPreset",
+	value = {
+		clarity = 0,
+		contrast = 0,
+		exposure = -0.0825,
+		saturation = 0,
+		sharpness = 0,
+		toningHue = 240,
+		toningLuminance = 0,
+		toningSaturation = 0,
+	},
+	version = 0,
+}

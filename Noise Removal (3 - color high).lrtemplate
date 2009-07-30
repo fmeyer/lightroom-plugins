@@ -1,0 +1,20 @@
+s = {
+	id = "30214CF4-9DA3-4A5E-8BBE-95215E05B5C3",
+	internalName = "Matt's Noise Removal (3 - color high)",
+	title = "Matt's Noise Removal (3 - color high)",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 100,
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			EnableGrayscaleMix = true,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 75,
+		},
+		uuid = "86639D5B-875F-4FE7-B599-CE4FDD6D8F7F",
+	},
+	version = 0,
+}

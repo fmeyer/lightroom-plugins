@@ -1,0 +1,25 @@
+s = {
+	internalName = "COL Negative Point Curve",
+	title = "COL Negative Point Curve",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				255,
+				255,
+				0,
+			},
+		},
+		uuid = "26930436-C401-11DB-A3F5-000A95A69B84",
+	},
+	version = 0,
+	--Richard Earney
+}

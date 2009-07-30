@@ -1,0 +1,23 @@
+s = {
+	id = "03907798-8427-4EA9-9354-91680C78AD75",
+	internalName = "Basic Bam",
+	title = "Basic Bam",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Clarity = 65,
+			ColorNoiseReduction = 25,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 84,
+			Vibrance = 38,
+		},
+		uuid = "2CF47675-9172-43BC-8793-05E697D5432D",
+	},
+	version = 0,
+}

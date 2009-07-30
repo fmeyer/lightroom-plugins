@@ -1,0 +1,28 @@
+s = {
+	id = "0133E4CA-711A-4DB7-AFF4-FE2E88F99B61",
+	internalName = "Matt's Color Tint (Violet)",
+	title = "Matt's Color Tint (Violet)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -15,
+			GrayMixerBlue = 15,
+			GrayMixerGreen = -27,
+			GrayMixerMagenta = 4,
+			GrayMixerOrange = -21,
+			GrayMixerPurple = 19,
+			GrayMixerRed = -11,
+			GrayMixerYellow = -25,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 276,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 276,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "ECF4DE41-BE45-4EA9-AD09-28E968CC739C",
+	},
+	version = 0,
+}

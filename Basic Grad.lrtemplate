@@ -1,0 +1,42 @@
+s = {
+	id = "131A7331-385C-4967-8094-66D84A34F5E8",
+	internalName = "Basic Grad",
+	title = "Basic Grad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			GradientBasedCorrections = {
+				{
+					CorrectionActive = true,
+					CorrectionAmount = 1,
+					CorrectionID = "8C697226-2083-4607-9300-09572AC649FE",
+					CorrectionMasks = {
+						{
+							FullX = 0.526047,
+							FullY = -0.001532,
+							MaskID = "D32E0D06-C3FB-45DE-A3DF-9AE2F2D8105B",
+							MaskValue = 1,
+							What = "Mask/Gradient",
+							ZeroX = 0.526047,
+							ZeroY = 0.999998,
+						},
+					},
+					CorrectionReferenceX = 0.526047,
+					CorrectionReferenceY = 0.499233,
+					LocalBrightness = 0,
+					LocalClarity = 0,
+					LocalContrast = 0,
+					LocalExposure = -0.5,
+					LocalSaturation = 0,
+					LocalSharpness = 0,
+					LocalToningHue = 240,
+					LocalToningSaturation = 0,
+					What = "Correction",
+				},
+			},
+		},
+		uuid = "A7F95E01-FEEB-4BE0-B557-E1E4D2862487",
+	},
+	version = 0,
+}

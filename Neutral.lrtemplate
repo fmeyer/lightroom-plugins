@@ -1,0 +1,22 @@
+s = {
+	id = "73C3F3DF-3326-4752-9486-44482E2EA724",
+	internalName = "Neutral",
+	title = "Neutral",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Neutral beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "B6B34282-43DA-455E-8796-481A03FBB59E",
+	},
+	version = 0,
+}
